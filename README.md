@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prachi Saxena</h1>
-<h3 align="center">I'm a passionate full-stack developer who embarked on my software development journey in 2023. Since then, I've been actively learning and honing my skills in frontend and backend technologies to create robust and scalable solutions.</h3>
+<h3 align="center">I'm a passionate full-stack developer and machine learning enthusiast who embarked on my software development journey in 2023. Since then, I've been actively learning and honing my skills to create robust and scalable solutions.</h3>
 
 - 📫 How to reach me **saxenaprachi08@gmail.com**
 
